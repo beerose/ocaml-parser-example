@@ -1,0 +1,6 @@
+{ 
+  "field1": "Hello",
+  "field2": "17e13"
+  "field3": [1, 2, 3],
+  "field4": { "fieldA": 1, "fieldB": "Hello" }
+}
